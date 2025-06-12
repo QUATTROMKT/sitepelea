@@ -727,7 +727,7 @@ export default function LandingPage() {
                     <h3 className="text-xl font-bold text-[#002720] mb-2">Treinamento Funcional</h3>
                     <p className="text-[#401F16] mb-4">Treinamento funcional para grupos com foco em resultados</p>
                     <Link
-                      href="https://www.instagram.com/_pelea/"
+                      href="https://www.instagram.com/peleaperform/"
                       target="_blank"
                       className="inline-flex items-center gap-2 bg-[#F2F5B4] text-[#002720] px-4 py-2 rounded-md font-medium hover:bg-[#F2F5B4]/90 transition-colors w-full justify-center hover:scale-[1.02] duration-300"
                     >
@@ -749,7 +749,7 @@ export default function LandingPage() {
                       Avaliação e acompanhamento personalizado para maximizar resultados
                     </p>
                     <Link
-                      href="https://www.instagram.com/_pelea/"
+                      href="https://www.instagram.com/peleaperform/"
                       target="_blank"
                       className="inline-flex items-center gap-2 bg-[#F2F5B4] text-[#002720] px-4 py-2 rounded-md font-medium hover:bg-[#F2F5B4]/90 transition-colors w-full justify-center hover:scale-[1.02] duration-300"
                     >
@@ -769,7 +769,7 @@ export default function LandingPage() {
                     <h3 className="text-xl font-bold text-[#002720] mb-2">Equipamentos de Última Geração</h3>
                     <p className="text-[#401F16] mb-4">Equipamentos de última geração para seu desenvolvimento</p>
                     <Link
-                      href="https://www.instagram.com/_pelea/"
+                      href="https://www.instagram.com/peleaperform/"
                       target="_blank"
                       className="inline-flex items-center gap-2 bg-[#F2F5B4] text-[#002720] px-4 py-2 rounded-md font-medium hover:bg-[#F2F5B4]/90 transition-colors w-full justify-center hover:scale-[1.02] duration-300"
                     >
@@ -791,7 +791,7 @@ export default function LandingPage() {
                       Resultados comprovados e metodologia exclusiva para seu sucesso
                     </p>
                     <Link
-                      href="https://www.instagram.com/_pelea/"
+                      href="https://www.instagram.com/peleaperform/"
                       target="_blank"
                       className="inline-flex items-center gap-2 bg-[#F2F5B4] text-[#002720] px-4 py-2 rounded-md font-medium hover:bg-[#F2F5B4]/90 transition-colors w-full justify-center hover:scale-[1.02] duration-300"
                     >
